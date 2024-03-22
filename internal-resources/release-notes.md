@@ -2,17 +2,13 @@
 
 ## Version 1.0 - Updates from legacy content
 
-This release modularizes the legacy [tktk previous lab name] lab solution code and provides some other minor updates detailed below.
+This code along is net new content for the 3.0 release. 
 
 ### Release details
 
 #### Additions
 
-
-
 #### Changes
-
-
 
 #### Removals
 
