@@ -4,6 +4,8 @@
 
 This module provides solution code for the `Javascript Browser Game - Rock, Paper, Scissors` code along.
 
+Open `index.html` in the browser to play. 
+
 ## Internal resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
